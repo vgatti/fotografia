@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "newyork"
-date:   10/03/2020, 12:44
+date:   2020-03-10
 preview: /fotografia/newyork/1.jpg
 permalink: /:title
 ---
