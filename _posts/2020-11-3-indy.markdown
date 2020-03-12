@@ -2,65 +2,65 @@
 layout: post
 title:  "indy"
 date:   2020-03-11
-preview: /fotografia/indy/3.Jpg
+preview: /fotografia/indy/3.jpg
 permalink: /:title
 ---
 
-![Picture 8](8.Jpg)
+![Picture 8](8.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 1](1.Jpg)
+![Picture 1](1.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 2](2.Jpg)
+![Picture 2](2.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 3](3.Jpg)
+![Picture 3](3.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 4](4.Jpg)
+![Picture 4](4.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 5](5.Jpg)
+![Picture 5](5.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 6](6.Jpg)
+![Picture 6](6.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 7](7.Jpg)
+![Picture 7](7.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 9](9.Jpg)
+![Picture 9](9.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
 ---
 
-![Picture 10](10.Jpg)
+![Picture 10](10.jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
