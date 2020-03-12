@@ -2,6 +2,9 @@
 layout: default
 ---
 <div class="post">
+
+	<a id="top"></a>
+
   <div class="post-nav">
     {% if page.next.url %}
       <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a>
@@ -18,5 +21,23 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+
+  <div class="post-nav">
+    {% if page.next.url %}
+      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a>
+    {% endif %}
+    {% if page.previous.url %}
+      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">Next &raquo;</a>
+    {% endif %}
+  </div>
+  
+ 
+  
+  <nav class="navbar">
+    <ul>
+     <li class="nav-item"> <a href="#top">top</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/">home</a></li>
+    </ul>
+  </nav>
 
 </div>

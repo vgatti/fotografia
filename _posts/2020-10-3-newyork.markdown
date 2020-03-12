@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "newyork"
+date:   10/03/2020, 12:44
+preview: /fotografia/newyork/1.jpg
+permalink: /:title
+---
+
+![Picture 8](8.jpg)
+
+_Senza Titolo_, New York, 2017
+
+---
+
+![Picture 1](1.jpg)
+
+_Senza Titolo_, New York, 2017
+
+---
+
+![Picture 2](2.jpg)
+
+_Senza Titolo_, New York, 2016
+
+---
+
+![Picture 3](3.jpg)
+
+_Senza Titolo_, New York, 2018
+
+---
+
+![Picture 4](4.jpg)
+
+_Senza Titolo_, New York, 2018
+
+---
+
+![Picture 5](5.jpg)
+
+_Senza Titolo_, New York, 2018
+
+---
+
+![Picture 6](6.jpg)
+
+_Senza Titolo_, New York, 2017
+
+---
+
+![Picture 7](7.jpg)
+
+_Senza Titolo_, New York, 2017
+
+---
+
+![Picture 9](9.jpg)
+
+_Senza Titolo_, New York, 2017
+
+---
+
+![Picture 10](10.jpg)
+
+_Senza Titolo_, New York, 2018
+
+
