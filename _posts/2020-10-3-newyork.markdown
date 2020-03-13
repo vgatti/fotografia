@@ -6,7 +6,7 @@ preview: /fotografia/newyork/1.jpg
 permalink: /:title
 ---
 
-![Picture 8](/fotografia/newyork/8.jpg)
+![Picture 8](8.jpg)
 
 _Senza Titolo_, New York, 2017
 
