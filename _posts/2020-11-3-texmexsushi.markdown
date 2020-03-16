@@ -2,7 +2,7 @@
 layout: post
 title:  "texmexsushi"
 date:   2020-03-11
-preview: ../fotografia/texmexsushi/3.jpg
+preview: /fotografia/texmexsushi/3.Jpg
 permalink: /:title
 ---
 
