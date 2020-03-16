@@ -12,67 +12,67 @@ _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 1](1.jpg)
+![Picture 1](1.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 2](2.jpg)
+![Picture 2](2.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 3](3.jpg)
+![Picture 3](3.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 4](4.jpg)
+![Picture 4](4.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 5](5.jpg)
+![Picture 5](5.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 6](6.jpg)
+![Picture 6](6.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 7](7.jpg)
+![Picture 7](7.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 9](9.jpg)
+![Picture 9](9.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 10](10.jpg)
+![Picture 10](10.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 10](11.jpg)
+![Picture 10](11.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 10](12.jpg)
+![Picture 10](12.Jpg)
 
 _Senza Titolo_, New York, 2019
 
