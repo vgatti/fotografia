@@ -2,11 +2,11 @@
 layout: post
 title:  "indy"
 date:   2020-03-11
-preview: /fotografia/indy/003.Jpg
+preview: /fotografia/indy/0003.Jpg
 permalink: /:title
 ---
 
-![Picture 8](008.Jpg)
+![Picture 8](0008.Jpg)
 
 _Senza Titolo_, Indianapolis, 2018
 
