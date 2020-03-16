@@ -2,11 +2,11 @@
 layout: post
 title:  "newyork"
 date:   2020-03-10
-preview: /fotografia/newyork/1.jpg
+preview: ./fotografia/newyork/1.jpg
 permalink: /:title
 ---
 
-![Picture 8](8.jpg)
+![Picture 8](8.Jpg)
 
 _Senza Titolo_, New York, 2017
 

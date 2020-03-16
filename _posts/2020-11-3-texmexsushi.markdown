@@ -2,11 +2,11 @@
 layout: post
 title:  "texmexsushi"
 date:   2020-03-11
-preview: /fotografia/texmexsushi/3.jpg
+preview: ../fotografia/texmexsushi/3.jpg
 permalink: /:title
 ---
 
-![Picture 8](8.jpg)
+![Picture 8](8.Jpg)
 
 _Senza Titolo_, New York, 2019
 
@@ -76,10 +76,6 @@ _Senza Titolo_, New York, 2019
 
 _Senza Titolo_, New York, 2019
 
----
 
-![Picture 10](13.jpg)
-
-_Senza Titolo_, New York, 2019
 
 
