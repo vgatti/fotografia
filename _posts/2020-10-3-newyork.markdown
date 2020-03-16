@@ -2,7 +2,7 @@
 layout: post
 title:  "newyork"
 date:   2020-03-10
-preview: ./fotografia/newyork/1.Jpg
+preview: /fotografia/newyork/1.Jpg
 permalink: /:title
 ---
 
