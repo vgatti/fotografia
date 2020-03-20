@@ -6,73 +6,73 @@ preview: /fotografia/texmexsushi/3.Jpg
 permalink: /:title
 ---
 
-![Picture 8](texmexsushi/8.Jpg)
+![Picture 8](./8.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 1](texmexsushi/1.Jpg)
+![Picture 1](./1.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 2](texmexsushi/2.Jpg)
+![Picture 2](./2.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 3](texmexsushi/3.Jpg)
+![Picture 3](./3.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 4](texmexsushi/4.Jpg)
+![Picture 4](./4.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 5](texmexsushi/5.Jpg)
+![Picture 5](./5.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 6](texmexsushi/6.Jpg)
+![Picture 6](./6.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 7](texmexsushi/7.Jpg)
+![Picture 7](./7.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 9](texmexsushi/9.Jpg)
+![Picture 9](./9.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 10](texmexsushi/10.Jpg)
+![Picture 10](./10.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 10](texmexsushi/11.Jpg)
+![Picture 10](./11.Jpg)
 
 _Senza Titolo_, New York, 2019
 
 ---
 
-![Picture 10](texmexsushi/12.Jpg)
+![Picture 10](./12.Jpg)
 
 _Senza Titolo_, New York, 2019
 
