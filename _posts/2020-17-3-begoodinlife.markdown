@@ -6,7 +6,7 @@ preview: /fotografia/begoodinlife/03.jpg
 permalink: /:title
 ---
 
-![Picture 8](:title/08.jpg)
+![Picture 8](beggodinlife/08.jpg)
 
 _Senza Titolo_, Roma, 2019
 
