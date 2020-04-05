@@ -6,7 +6,7 @@ preview: /fotografia/newyork/1.Jpg
 permalink: /:title
 ---
 
-![Picture 8](newyork/8.Jpg)
+![Picture 8]({{ "/newyork/8.jpg" | absolute_url }})
 
 _Senza Titolo_, New York, 2017
 
