@@ -6,8 +6,6 @@ preview: /fotografia/newyork/1.Jpg
 permalink: /:title
 ---
 
-Fotografie scattate tra il 2016 e il 2018 a New York. 
-
 ![Picture 2]({{ "/newyork/2.Jpg" | absolute_url }})
 
 _Senza Titolo_, New York, 2016

@@ -1,8 +1,33 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: whereisaldo
+permalink: /whereisaldo/
 ---
+
+![Tokyo]({{ "/tokyo.Jpg" | absolute_url }})
+
+WHERE IS ALDO. Viaggi alla ricerca di Aldo Rossi. 
+A cura di [Warehouse of Architecture and Research](https://warehousearchitecture.org), Jacopo Costanzo, Giulia Leone e Flavia Giuliani.
+
+[https://divisare.com/projects/387665-warehouse-of-architecture-and-research-where-is-aldo
+](https://divisare.com/projects/387665-warehouse-of-architecture-and-research-where-is-aldo)
+
+[http://www.artribune.com/mostre-evento-arte/vittorio-gatti-where-is-aldo/
+](http://www.artribune.com/mostre-evento-arte/vittorio-gatti-where-is-aldo/)
+
+[https://zero.eu/eventi/111695-vittorio-gatti-where-is-aldo,roma/
+](https://zero.eu/eventi/111695-vittorio-gatti-where-is-aldo,roma/)
+
+[https://www.openhouseroma.org/sito/where-aldo
+](https://www.openhouseroma.org/sito/where-aldo)
+
+[http://studiaperti.com/warehouse-of-architecture-and-research/
+](http://studiaperti.com/warehouse-of-architecture-and-research/)
+
+[https://archiwatch.it/2018/05/04/100398/
+](https://archiwatch.it/2018/05/04/100398/)
+
+
 
 
 

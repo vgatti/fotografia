@@ -5,8 +5,6 @@ date:   2020-03-11
 preview: /fotografia/texmexsushi/3.Jpg
 permalink: /:title
 ---
-_118 Kitchen_ è un piccolo ristorante sulla 118-esima strada a East Harlem, Manhattan. La cucina serve cibo TEX-MEX e SUSHI.
-
 
 ![Picture 8]({{ "/texmexsushi/8.Jpg" | absolute_url }})
 
@@ -77,6 +75,11 @@ _Senza Titolo_, New York, 2019
 ![Picture 10]({{ "/texmexsushi/12.Jpg" | absolute_url }})
 
 _Senza Titolo_, New York, 2019
+
+---
+
+
+_118 Kitchen_ è un piccolo ristorante sulla 118-esima strada a East Harlem, Manhattan. La cucina serve cibo TEX-MEX e SUSHI.
 
 
 

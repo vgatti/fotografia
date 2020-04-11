@@ -5,7 +5,6 @@ date:   2020-03-11
 preview: /fotografia/indy/11.Jpg
 permalink: /:title
 ---
-Indianapolis è la capitale dello stato dell'Indiana. La città di Indianapolis viene spesso chiamata, per brevità, Indy.
 
 ![Picture 8]({{ "/indy/8.Jpg" | absolute_url }})
 
@@ -70,5 +69,7 @@ _Senza Titolo_, Indianapolis, 2018
 ![Picture 10]({{ "/indy/11.Jpg" | absolute_url }})
 
 _Senza Titolo_, Indianapolis, 2018
+
+Indianapolis è la capitale dello stato dell'Indiana. La città di Indianapolis viene spesso chiamata, per brevità, Indy.
 
 

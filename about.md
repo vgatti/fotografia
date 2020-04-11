@@ -6,8 +6,8 @@ permalink: /about/
 
 Le fotografie mostrate sono scattate su pellicola e stampate in camera oscura con tecniche di riproduzione fotografica.
 
-Per info scrivere a vtrgatti@gmail.com
+Per info scrivere a vittorio.gatti@yahoo.it
 
-News 'Where is Aldo' : 
+
 
 
