@@ -1,10 +1,21 @@
 ---
-layout: page
+layout: post
 title: whereisaldo
+date: 2018-05-21
+preview: /fotografia/whereisaldo/tokyo1.Jpg
 permalink: /whereisaldo/
 ---
 
-![Tokyo]({{ "/tokyo.Jpg" | absolute_url }})
+![Tokyo1]({{ "/whereisaldo/tokyo1.Jpg" | absolute_url }})
+
+![Tokyo2]({{ "/whereisaldo/fontiveggie.Jpg" | absolute_url }})
+
+![Tokyo]({{ "/whereisaldo/mountpocono.Jpg" | absolute_url }})
+
+![Tokyo]({{ "/whereisaldo/fuji.Jpg" | absolute_url }})
+
+![Tokyo]({{ "/whereisaldo/tokyo2.Jpg" | absolute_url }})
+
 
 WHERE IS ALDO. Viaggi alla ricerca di Aldo Rossi. 
 A cura di [Warehouse of Architecture and Research](https://warehousearchitecture.org), Jacopo Costanzo, Giulia Leone e Flavia Giuliani.
