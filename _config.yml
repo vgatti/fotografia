@@ -1,11 +1,11 @@
 # Site settings
-title: Gatti - Fotografie
-email: vtrgatti@gmail.com
-description: (c) Vittorio Gatti > # this means to ignore newlines until "baseurl:"
+title: Gatti - Fotografia
+email: 
+description: # this means to ignore newlines until "baseurl:"
 baseurl: "/fotografia" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username:
-github_username:  
+github_username:
 
 # Build settings
 markdown: kramdown

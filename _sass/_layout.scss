@@ -5,6 +5,12 @@
     max-width: 80rem;
 }
 
+.project_index { 
+						font-size: 12px;
+						text-align: center;
+
+					}
+
 .site-header {
     text-align: center;
 }
@@ -23,8 +29,21 @@
     padding: 1rem;
 }
 
+.text--center{
+	text-align: center;
+}
+
+.post-header {
+    display: block;
+    font-size:16pt;
+    font-weight: 450;
+}
+
 .post-title {
     display: block;
+    text-align:center;
+    font-size:10pt;
+    font-weight: 300;
 }
 
 /**
@@ -44,6 +63,8 @@
     border-top: 1px solid $grey-color-light;
     margin: 2rem 0;
     padding: 2rem 0;
+    font-family: Garamond;
+  	font-size: 10pt;
 }
 
 .contact-list,
